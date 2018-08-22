@@ -1,0 +1,44 @@
+argv: [figure1.py]
+cpuinfo:
+  arch: X86_64
+  bits: 64
+  brand: Intel(R) Core(TM) i7-7567U CPU @ 3.50GHz
+  count: 4
+  cpuinfo_version: [4, 0, 0]
+  family: 6
+  flags: [1gbpage, acpi, adx, aes, apic, avx1.0, avx2, bmi1, bmi2, clfsh, clfsopt,
+    cmov, cx16, cx8, de, ds, dscpl, dtes64, em64t, erms, est, f16c, fma, fpu, fpu_csds,
+    fxsr, htt, invpcid, ipt, lahf, lzcnt, mca, mce, mmx, mon, movbe, mpx, msr, mtrr,
+    osxsave, pae, pat, pbe, pcid, pclmulqdq, pdcm, pge, popcnt, prefetchw, pse, pse36,
+    rdrand, rdseed, rdtscp, rdwrfsgs, seglim64, sep, sgx, smap, smep, ss, sse, sse2,
+    sse3, sse4.1, sse4.2, ssse3, syscall, tm, tm2, tpr, tsc, tsc_thread_offset, tsci,
+    tsctmr, vme, vmx, x2apic, xd, xsave]
+  hz_actual: 3.5000 GHz
+  hz_actual_raw: [3500000000, 0]
+  hz_advertised: 3.5000 GHz
+  hz_advertised_raw: [3500000000, 0]
+  l2_cache_size: '256'
+  model: 142
+  python_version: 3.7.0.final.0 (64 bit)
+  raw_arch_string: x86_64
+  stepping: 9
+  vendor_id: GenuineIntel
+files:
+  output:
+    figures/figure1.html: {mtime: 1534925290.8027077, sha256: afa7125cd10211b5cc8cd4079400441f39133c27d1444b619c0558188225cc79}
+packages: [bokeh==0.13.0, gitdb2==2.0.4, GitPython==2.1.11, Jinja2==2.10, MarkupSafe==1.0,
+  numpy==1.15.0, packaging==17.1, pip==18.0, py-cpuinfo==4.0.0, pyparsing==2.2.0,
+  python-dateutil==2.7.3, PyYAML==3.13, reproducible==0.2.4, scikit-learn==0.19.2,
+  scipy==1.1.0, setuptools==39.0.1, Shapely==1.5.17, six==1.11.0, smmap2==2.0.4, tornado==5.1,
+  tqdm==4.24.0]
+platform: Darwin-17.7.0-x86_64-i386-64bit
+python:
+  branch: ''
+  compiler: Clang 9.1.0 (clang-902.0.39.2)
+  implementation: CPython
+  revision: ''
+  version: ['3', '7', '0']
+repositories:
+  .: {diff: null, dirty: false, hash: fc0f0d0e33d2649deaaf5eaeaafab2184e02628c, version: git
+      version 2.18.0}
+timestamp: '2018-08-22T08:08:09.983542Z'

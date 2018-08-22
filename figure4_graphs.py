@@ -12,8 +12,6 @@ color_motor, color_goal = '#2577b2', '#e84a5f'
 with open('runs/fig4_diversities.pickle', 'rb') as fd:
     diversities_fixed, diversities_adapt = pickle.load(fd)
 
-print(diversities_adapt)
-
 div_meanstd = []
 figs = []
 
