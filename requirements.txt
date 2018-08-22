@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+bokeh
+shapely==1.5.17
+reproducible
+tqdm
