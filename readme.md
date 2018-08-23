@@ -8,7 +8,7 @@ Benureau, Oudeyer, "Diversity-Driven Selection of Exploration Strategies in
 Multi-Armed Bandits" *ICDL-Epirob conference*, Providence, RI, USA, 2015.
 https://doi.org/10.1109/devlrn.2015.7346130
 
-The pdf is [available here](https://fabien.benureau.com/docs/icdl2015.pdf).
+The pdf is [available here](https://fabien.benureau.com/docs/icdl2015.pdf). This code and precomputed results are available in a perdurable manner through this link: [doi.org/10.6084/m9.figshare.6809135](https://doi.org/10.6084/m9.figshare.6809135)
 
 Precomputed figures can be found in the `figures_ref/` folder, if you don't wish
 to rerun the code. Because randomness is controlled by seeds, you should obtain
